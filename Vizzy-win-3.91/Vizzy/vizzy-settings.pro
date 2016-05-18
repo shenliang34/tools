@@ -1,0 +1,33 @@
+#
+#Wed May 18 14:06:56 CST 2016
+settings.use_custom_as_editor=true
+settings.restore_on_trace_update=false
+settings.line_numbers_visible=true
+settings.window.width=1936.0
+settings.window.y=-8.0
+settings.always_on_top=false
+settings.font.name=\u65B0\u5B8B\u4F53
+settings.flashlog.max_num_lines_enabled=false
+settings.window.x=-8.0
+settings.enable_code_popups=true
+settings.update.last=1463550777601
+settings.update.autoupdates=true
+settings.new_features_shown3.91=false
+search.keywords=2016|||SKILL|||__SKILL|||
+settings.refresh_freq=500
+settings.flashlog.max_num_lines=50000
+settings.custom_as_editor="C\:\\Program Files\\FlashDevelop\\FlashDevelop.exe" "%file%" -line %line%
+settings.flashlog.utf=true
+settings.highlight_all=true
+settings.log_type=0
+settings.font.color=-16777216
+settings.search_panel_visible=true
+settings.flashlog.filename=C\:\\Users\\Administrator\\Application Data\\Macromedia\\Flash Player\\Logs\\flashlog.txt
+settings.flashlog.vizzy_trace_enabled=false
+settings.text_area.color=-1
+settings.enable_trace_click=true
+settings.font.size=12
+settings.flashlog.highlights=1||Error\: ||-14336|||2||Warning\: ||-256
+settings.flashlog.word_wrap=true
+settings.window.height=1026.0
+settings.flashlog.auto_refresh=true
